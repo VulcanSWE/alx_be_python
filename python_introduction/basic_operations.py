@@ -1,5 +1,5 @@
-number1 = 20
-number2 = 10
+number1 = 10
+number2 = 5
 
 additon = number1 + number2
 
