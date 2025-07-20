@@ -1,5 +1,5 @@
 #Prompt the user for the weather condition and provide advice based on the input
-weather = input("Enter the weather condition (sunny, rainy, snowy): ").strip().lower()
+weather = input("What's the weather like today? (sunny/rainy/cold): ").strip().lower()
 
 # Check the weather condition and provide appropriate advice
 if weather == "sunny":
